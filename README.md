@@ -20,7 +20,7 @@
 
 6. Ejemplifique el uso de git para la modificación de ficheros en la rama A y en la rama B simultaneamente **sin generar commits en el historial de cambios**.
 
-7. Ejemplifique el uso de git para la generación y publicación de un **nuevo relase (versión)** de su código.
+7. Ejemplifique el uso de git para la generación y publicación de un **nuevo release (versión)** de su código.
 
 ## Extras
 
